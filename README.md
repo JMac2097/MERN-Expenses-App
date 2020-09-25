@@ -1,2 +1,3 @@
 # MERN-Expenses-App
-From this here tutorial:Creating your first MERN stack application. | by Umair Aslam's Tech Blog
+From this here tutorial:https://blog.cloudboost.io/creating-your-first-mern-stack-application-b6604d12e4d3
+
