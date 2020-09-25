@@ -1,0 +1,19 @@
+{
+  "name": "mern-expenses-app",
+  "version": "1.0.0",
+  "description": "From this here tutorial:https://blog.cloudboost.io/creating-your-first-mern-stack-application-b6604d12e4d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMac2097/MERN-Expenses-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMac2097/MERN-Expenses-App/issues"
+  },
+  "homepage": "https://github.com/JMac2097/MERN-Expenses-App#readme"
+}
